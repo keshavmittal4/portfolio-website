@@ -19,3 +19,8 @@ CSS3: For styling and ensuring responsive design.
 JavaScript: For interactive elements and enhanced user experience.
 
 Link: https://keshvmittal.netlify.app/
+
+
+I have also hosted this website via, AWS S3 Bucket:
+
+https://keshav-portfolio.s3.ap-south-1.amazonaws.com/index.html
